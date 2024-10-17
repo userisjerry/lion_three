@@ -1,5 +1,6 @@
 # lion_three
 #### 24.10.10 - 10.16 // 17일 발표
+#### 노션 참고 필히 바람 https://www.notion.so/11b2ac57491280f585d9ca088e8db8f3?v=11b2ac5749128043a4ad000cba70dc92
 
 
 
